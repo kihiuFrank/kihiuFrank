@@ -14,8 +14,8 @@ Skills: Solidity / kotlin / node JS / REACT / JS
 
 - 🌱 I’m currently learning blockchain, Solidity and full stack Web3 development with JavaScript.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kihiuFrank&show_icons=true&theme=react" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihiuFrank&hide=jupyternotebook&layout=compact&theme=react" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kihiuFrank&show_icons=true&theme=solarized-dark" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihiuFrank&hide=jupyternotebook&layout=compact&theme=flag-india" />
 
 <br/> <br/>
 
