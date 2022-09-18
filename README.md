@@ -5,13 +5,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 😃 I'm a Web3 and Android Developer who is here to learn and have fun while doing it.
+- 😃 I'm a Crypto & Tech Enthusiast | Blockend Engineer | Smart Contract Dev, who is here to learn and have fun while doing it.
 
-- 🌱 I'm currently working on both spaces and learning a ton of stuff too.
+- 🕺🕺 I'm open to any collaboration in building DAPPs, auditing them for vulnerabilities and anything security-related.
 
-- 🕺🕺 I'm open to any collaboration in building DAPPs, auditing them for vulnerabilities and anything security-related (both web2 and web3)
+- 💡 Extremely curious, overzealous about blockchain tech.
 
-- 💡 Extremely curious, overzealous about blockchain tech, loves to help out when I can.
+- 💡 Loves to help out when/where I can.
 
 - 🌱 I’m currently learning blockchain, Solidity and full stack Web3 development with JavaScript.
 
